@@ -1,0 +1,32 @@
+_repo: The-travels-of-Pedro-de-Cieza-de-Leon-part-2_48785
+contributor:
+  translator:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Clements Robert, Sir
+    - Markham, Sir Clements R. (Clements Robert)
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+creator:
+  author:
+    agent_name: Cieza de León, Pedro de
+    alias: León, Pedro de Cieza de
+    birthdate: 1518
+    deathdate: 1554
+    gutenberg_agent_id: '31190'
+    url: http://www.gutenberg.org/2009/agents/31190
+    wikipedia: http://es.wikipedia.org/wiki/Pedro_Cieza_de_Le%C3%B3n
+description: ''
+gutenberg_issued: '2015-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The travels of Pedro de Cieza de Léon; part 2
+url: http://www.gutenberg.org/ebooks/48785
