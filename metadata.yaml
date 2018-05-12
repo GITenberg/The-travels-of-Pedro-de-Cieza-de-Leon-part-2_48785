@@ -1,4 +1,5 @@
 _repo: The-travels-of-Pedro-de-Cieza-de-Leon-part-2_48785
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Markham, Clements R. (Clements Robert), Sir
@@ -10,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2962'
     url: http://www.gutenberg.org/2009/agents/2962
     wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+covers:
+- cover_type: archival
+  image_path: 48785-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Cieza de León, Pedro de
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31190
     wikipedia: http://es.wikipedia.org/wiki/Pedro_Cieza_de_Le%C3%B3n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48785#The-travels-of-Pedro-de-Cieza-de-Leon-part-2
 gutenberg_issued: '2015-04-24'
 gutenberg_type: Text
 identifiers:
