@@ -34,5 +34,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The travels of Pedro de Cieza de Léon; part 2
 url: http://www.gutenberg.org/ebooks/48785
